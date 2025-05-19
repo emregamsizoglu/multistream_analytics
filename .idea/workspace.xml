@@ -5,24 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f8ae8c6f-6de7-4977-b44d-e928e320be4d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/multistream_analytics.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/analytics/yolov5_annotator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/rtsp_control.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/server.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ingestion/multi_camera_ingest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main_yolo_gstreamer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main_yolo_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi_yolo_stream.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rtsp_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/streaming/rtsp_streamer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_camera.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web_stream_server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_stream.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_stream_server.py" beforeDir="false" afterPath="$PROJECT_DIR$/web_stream_server.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +69,10 @@
       <updated>1747228841953</updated>
       <workItem from="1747228842974" duration="5569000" />
       <workItem from="1747256452558" duration="3124000" />
-      <workItem from="1747388321381" duration="7352000" />
+      <workItem from="1747388321381" duration="7981000" />
+      <workItem from="1747405504206" duration="340000" />
+      <workItem from="1747422414475" duration="202000" />
+      <workItem from="1747680996537" duration="5038000" />
     </task>
     <servers />
   </component>
